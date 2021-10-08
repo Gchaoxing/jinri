@@ -20,20 +20,20 @@ users:
       # 任务类型（收集：0、签到：1、查寝：2、教师工作日志：3）
       type: 3
       #school 学校全称
-      schoolName: 宜宾学院
+      schoolName: 湖北三峡职业技术学院
       #username 学号或者工号
-      username: ''
+      username: '20303230128'
       #password 密码
-      password: ''
+      password: '150401'
       # 地址信息
-      address: '宜宾市（自己改）'
+      address: '三峡职院东八电子信息学院公寓楼'
       #sendKey 当sendType为0时代表邮箱，当sendType为1时代表接收消息的QQ号码，当sendType为2时代表接收消息的pushplus token
-      sendKey: ''
+      sendKey: '494510054'
       # 附上经纬度查询地址（请自行选择自己的学校地址，address，lon，lat都要填查询到的）：http://api.map.baidu.com/lbsapi/getpoint/index.html
       #lon 经度
-      lon: 104.616858
+      lon: 111.32077262201958
       #lat 纬度
-      lat: 28.793022
+      lat: 30.69843310770947
       #检查标题与否
       checkTitle: 1
       #代理ip信息（格式为：网络协议://ip地址:端口   如：http://127.0.0.1:7890）
