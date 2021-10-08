@@ -1,6 +1,6 @@
 author: 若离QQ：2909998156
 # 推送方式：0：邮件推送；1：qmsg推送；2：pushplus推送
-sendType: 0
+sendType: 2
 # 当且仅当sendType为0时有用，邮箱API的地址
 emailApiUrl: 'https://api.ruoli.cc/sendMail'
 # 当且仅当sendType为1时有用，qmsg的Key（如需使用请自行更改）
@@ -28,7 +28,7 @@ users:
       # 地址信息
       address: '三峡职院东八电子信息学院公寓楼'
       #sendKey 当sendType为0时代表邮箱，当sendType为1时代表接收消息的QQ号码，当sendType为2时代表接收消息的pushplus token
-      sendKey: '494510054@qq.com'
+      sendKey: '323719ba116142fbbe8f1d9eb123d2e2'
       # 附上经纬度查询地址（请自行选择自己的学校地址，address，lon，lat都要填查询到的）：http://api.map.baidu.com/lbsapi/getpoint/index.html
       #lon 经度
       lon: 111.32077262201958
